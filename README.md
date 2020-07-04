@@ -2,7 +2,8 @@
 This is a project on building an A.I cam  for the detection of the suspicious activities around us
 
 # Benefits of deep surveillance A.I cameras are: 
-Can spot the suspicious and most wanted criminals wandering around especially in Airports/Public places  \n
+Can spot the suspicious and most wanted criminals wandering around especially in Airports/Public places 
+
 Increasing the security to women and children in public areas and can detect a missing child
 surveillance of militant activities at the borders 
 security surveillance at stores
