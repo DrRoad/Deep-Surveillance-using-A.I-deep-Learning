@@ -38,7 +38,7 @@ Keras
 
 Open CV
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://github.com/Mohitchvk/Deep-Surveillance-using-A.I-deep-Learning/blob/master/DATA-BASE/suspected.jpg)
 Format: ![Alt Text](url)
 
 
