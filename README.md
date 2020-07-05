@@ -38,7 +38,10 @@ Keras
 
 Open CV
 
-![GitHub Logo](https://github.com/Mohitchvk/Deep-Surveillance-using-A.I-deep-Learning/blob/master/DATA-BASE/suspected.jpg)
-Format: ![Alt Text](url)
+# If it finds the suspect it will store the image of suspect to the database and inform to cops or personal security
+here is an example for the output to database
+
+![OUTPUT](https://github.com/Mohitchvk/Deep-Surveillance-using-A.I-deep-Learning/blob/master/DATA-BASE/suspected.jpg)
+
 
 
